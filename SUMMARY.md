@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [ty](ty.md)
+* [正反转控制电路](chapter1.md)
 
